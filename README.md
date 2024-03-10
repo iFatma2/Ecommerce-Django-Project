@@ -77,12 +77,32 @@ DATABASES = {
     }
 }
 
-## Website Interface Previews
+## Django Flower Shop UI Sketches Previews
 
 Here's a sneak peek at Flower Shop Website:
 
-![Homepage Sketch](https://github.com/YourUsername/YourRepo/blob/main/docs/images/homepage_sketch.png?raw=true)
-![Product Page Sketch](https://github.com/YourUsername/YourRepo/blob/main/docs/images/product_page_sketch.png?raw=true)
+### Home Page
+![Home Page Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\Index.png")
+
+### Shop Items
+![Shop Items Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\ItemsShop.png")
+
+### Item Details
+![Item Details Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\ItemsDetails.png")
+
+### Checkout
+![Checkout Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\Checkout.png")
+
+### Address Form
+![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\address.png")
+
+### Payment Form
+![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\payment.png")
+
+## Video Demonstration
+For a full demonstration of the web application, check out this video:
+[![Django Flower Shop Video Demo](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Django Flower Shop Video Demo")
+
 
 ## Demo Video
 
