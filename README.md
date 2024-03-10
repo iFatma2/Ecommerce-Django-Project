@@ -9,8 +9,9 @@ Welcome to the Django Flower Shop, an e-commerce platform built with Django for 
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
-- [Django Flower Shop UI Sketches Previews](#django Flower Shop UI Sketches Previews)
-- [Demo Video](#Demo Video)
+- [Django Flower Shop UI Sketches Previews](#django-flower-shop-ui-sketches-previews)
+- [Database Checking](#database-checking)
+- [Demo Video](#Demo-video)
 
 ## Introduction
 
@@ -19,9 +20,9 @@ The Django Flower Shop is designed to showcase the capabilities of the Django we
 ## Features
 
 - **Product Catalog:** Browse a wide range of flowers and related products.
-- **Shopping Cart:** Add items to your cart and manage them with ease.
+- **Shopping Cart:** Add items to your cart.
 - **User Authentication:** Secure sign-up and login functionality.
-- **Order Management:** Place orders and track their status from payment to delivery.
+- **Order Management:** Place orders.
 - **Admin Panel:** Manage products, orders, and users through the Django admin interface.
 
 ## Installation
@@ -101,7 +102,10 @@ Here's a sneak peek at Flower Shop Website:
 ![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![payment](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/1e1fad96-a8df-4dfe-aa78-9b3334c5d276)
 
 ## Database Checking:
+### Address Table:
 ![DBaddress](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/c53a4334-d5b9-4897-8824-17f9b4ad98d8)
+
+### Payment Table:
 ![DBpayment](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/552a1dba-d213-436b-aef8-f7da9978d3c8)
 
 
