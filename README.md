@@ -113,7 +113,6 @@ Here's a sneak peek at Flower Shop Website:
 
 Watch a full demonstration of the Django Flower Shop in action:
 ![FlowerShopDemo](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/e1f530d4-6858-40d5-a792-a0810440e4a3)
-https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/e1f530d4-6858-40d5-a792-a0810440e4a3
 
 
 
