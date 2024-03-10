@@ -86,33 +86,34 @@ Here's a sneak peek at Flower Shop Website:
 ![Index](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/a1555ff2-3392-4e6d-8a2a-0e4f5e60a33f)
 
 ### Shop Items
-![Shop Items Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![ItemsShop](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/9f6a0413-1f32-4a90-a9ad-7e5442f40e4e)
+![Shop Items Sketch](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/9f6a0413-1f32-4a90-a9ad-7e5442f40e4e)
 
 ### Item Details
-![Item Details Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![ItemsDetails](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/c354c51b-7dc3-4c79-8870-0847f3924546)
+![Item Details Sketch](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/c354c51b-7dc3-4c79-8870-0847f3924546)
 
 
 ### Checkout
-![CheckoutSketch]("C:\Users\F\OneDrive - UMM AL-QURA ![Checkout](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/6f740015-4e46-40f7-8bc2-cc4494c702f9)
+![CheckoutSketch](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/6f740015-4e46-40f7-8bc2-cc4494c702f9)
 
 ### Address Form
-![AddresFormSketch]("C:\Users\F\OneDrive - UMM AL-QURA ![address](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/ae860f26-e48b-4672-8cd6-81f9d615257c)
+![AddresFormSketch](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/ae860f26-e48b-4672-8cd6-81f9d615257c)
 
 ### Payment Form
-![AddressFormSketch]("C:\Users\F\OneDrive - UMM AL-QURA ![payment](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/1e1fad96-a8df-4dfe-aa78-9b3334c5d276)
+![AddressFormSketch](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/1e1fad96-a8df-4dfe-aa78-9b3334c5d276)
 
 ## Database Checking:
 ### Address Table:
-![DBaddress](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/c53a4334-d5b9-4897-8824-17f9b4ad98d8)
+![DBaddress](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/b0d9784e-07ef-4a4d-8323-44ef7798040c)
 
 ### Payment Table:
-![DBpayment](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/552a1dba-d213-436b-aef8-f7da9978d3c8)
+![DBpayment](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/21618008-9636-410f-b5fe-b05ad53255a1)
 
 
 ## Demo Video
 
 Watch a full demonstration of the Django Flower Shop in action:
-![FlowerShopDemo](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/a875a63c-2369-4b79-a74b-9b0cb704b6a6)
+![FlowerShopDemo](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/e1f530d4-6858-40d5-a792-a0810440e4a3)
+https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/e1f530d4-6858-40d5-a792-a0810440e4a3
 
 
 
