@@ -1,0 +1,103 @@
+{% extends 'base.html' %} 
+ 
+{% block content %}
+
+    <!-- Cart area start -->
+    <div class="cart-area margin-bottom-120 mobile-mb-50 tab-mb-80 mt-5">
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-12">
+                    <div class="section-title-area ">
+                        <div class="section-title section-title-2">
+                            <div class="icon">
+                                <img src="../../static/assets/img/icon/title.svg" alt="Bloom">
+                            </div>
+                            <div class="title-text">
+                                <h2 class="title">Checkout and Payment</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="shoping-cart-tab-menu">
+                        <div class="nav">
+                            <a class="active show" data-toggle="tab" href="{% url 'checkout' %}">Cart</a>
+                            <a  class="" data-toggle="tab" href="{% url 'shipping_address' %}">Shipping</a>
+                            <a  class="" data-toggle="tab" href="{% url 'payment' %}">Payment</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div id="Cart" class="col-md-8 p-1">
+                    <form action="#">
+                        <div class="table-content table-responsive mb-50">
+                            <table class="text-center">
+                                <thead>
+                                    <tr>
+                                        <th>Picture</th>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Quantity</th>
+                                        <th>Tax</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for item in cart_details %}
+                                        <!-- tr -->
+                                        <tr>
+                                            <td class="cart-product-thumbnail">
+                                                <a href="product-details.html">
+                                                    <img src="../../static/assets/img/product/{{ item.cart_item.image }}" alt="">
+                                                </a>
+                                            </td>
+                                            <td class="cart-product-title">
+                                                <h6><a href="product-details.html">{{ item.product_name }}</a></h6>
+                                            </td>
+                                            <td class="cart-product-price">SAR {{ item.cart_item.price }}</td>
+                                            <td class="cart-product-quantity">x {{ item.cart_item.qty }}</td>
+                                            <td class="cart-product-taxes">x {{ item.cart_item.tax }}</td>
+                                        </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="text-right">
+                        <div class="shopping-cart-total-inner shipping-subtotal-inner text-center">
+                            <div class="table-responsive mb-50">
+                                <table class="">
+                                    <tbody>
+                                        <tr>
+                                            <td>Total:</td>
+                                            <td>SAR {{total}}</td>
+                                        </tr>
+                                        <tr>
+                                            <td>You save:</td>
+                                            <td class="save-from-coupon">$15</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Shipping and handling:</td>
+                                            <td>$25</td>
+                                        </tr>
+                                        <tr class="shipping-subtotal-price">
+                                            <td class="cart-total-title">Subtotal:</td>
+                                            <td class="cart-total-price">SAR {{total}}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="btn-wrapper">
+                                    <button class="boxed-btn btn-rounded" type="submit"><a href="{% url 'shipping_address' %}">Continue to Shipping</a></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+        </div>
+            </div>
+        </div>
+    </div>
+    <!-- Cart area end -->
+
+{% endblock %}

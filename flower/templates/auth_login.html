@@ -1,0 +1,12 @@
+{% extends 'base.html' %} 
+
+{% block content  %} 
+<div class="mt-5" style="padding: 50px;">
+ <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button class="btn btn-dark" type="submit">Login</button><br>
+    <label>You don't have one? Register <a href="{% url 'auth_register' %}" class="btn btn-dark">Register</a> Now!</label>
+ </form>
+</div>
+{% endblock %}

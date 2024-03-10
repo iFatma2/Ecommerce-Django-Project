@@ -1,0 +1,51 @@
+{% extends 'base.html' %} 
+ 
+{% block content %}
+
+    <!-- Cart area start -->
+    <div class="cart-area margin-bottom-120 mobile-mb-50 tab-mb-80 mt-5">
+        <div class="container">
+            <div class="row mt-5">
+
+                <div class="col-12">
+                    <div class="section-title-area ">
+                        <div class="section-title section-title-2">
+                            <div class="icon">
+                                <img src="../../static/assets/img/icon/title.svg" alt="Bloom">
+                            </div>
+                            <div class="title-text">
+                                <h2 class="title">Address</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="shoping-cart-tab-menu">
+                        <div class="nav">
+                            <a class="" data-toggle="tab" href="{% url 'checkout' %}">Cart</a>
+                            <a class="active show" data-toggle="tab" href="{% url 'shipping_address' %}">Shipping</a>
+                            <a class="" data-toggle="tab" href="{% url 'payment' %}">Payment</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-5">
+                <div id="Shipping" class="row">
+                    <div class="col-xl-6 col-md-7">
+                        <div class="shipping-address">
+                            <h4>ADDRESS</h4>
+                            <form method="post">
+                                {% csrf_token %}
+                                {{ form.as_p }}
+                                <div class="btn-wrapper">
+                                    <button class="boxed-btn btn-rounded" type="submit">Continue to Payment</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Cart area end -->
+
+{% endblock %}
