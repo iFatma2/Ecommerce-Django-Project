@@ -9,7 +9,8 @@ Welcome to the Django Flower Shop, an e-commerce platform built with Django for 
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
-- [Documentation](#documentation)
+- [Website Interface Previews](#Website Interface Previews)
+- [Demo Video](#Demo Video)
 
 ## Introduction
 
@@ -75,6 +76,19 @@ DATABASES = {
         'PORT': '3306',
     }
 }
+
+## Website Interface Previews
+
+Here's a sneak peek at Flower Shop Website:
+
+![Homepage Sketch](https://github.com/YourUsername/YourRepo/blob/main/docs/images/homepage_sketch.png?raw=true)
+![Product Page Sketch](https://github.com/YourUsername/YourRepo/blob/main/docs/images/product_page_sketch.png?raw=true)
+
+## Demo Video
+
+Watch a full demonstration of the Django Flower Shop in action:
+
+[![Watch the demo](https://img.youtube.com/vi/your_video_id_here/maxresdefault.jpg)](https://youtu.be/your_video_id_here)
 
 
 
