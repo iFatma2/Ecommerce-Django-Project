@@ -81,19 +81,19 @@ DATABASES = {
 
 Here's a sneak peek at Flower Shop Website:
 
-### Home Page
+## Home Page
 ![Home Page Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\Index.png")
 
-### Shop Items
+## Shop Items
 ![Shop Items Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\ItemsShop.png")
 
-### Item Details
+## Item Details
 ![Item Details Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\ItemsDetails.png")
 
-### Checkout
+## Checkout
 ![Checkout Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\Checkout.png")
 
-### Address Form
+## Address Form
 ![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\address.png")
 
 ### Payment Form
