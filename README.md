@@ -7,14 +7,9 @@ Welcome to the Django Flower Shop, an e-commerce platform built with Django for 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Documentation](#documentation)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
@@ -45,13 +40,10 @@ To get the Django Flower Shop up and running on your local machine, follow these
      ```bash
      Database Connection
 
-     ```bash
      pip install mysqlclient
      
-     ```bash
      python manage.py makemigrations
      
-     ```bash
      python manage.py migrate
      
   
@@ -60,3 +52,29 @@ To get the Django Flower Shop up and running on your local machine, follow these
      py manage.py runserver 
 
 5. Open your browser and go to http://127.0.0.1:8000 to view the app.
+
+## Dependencies
+
+This project requires the following major dependencies:
+
+- **Python:** The core programming language used for this project. Ensure you have Python 3.8 or newer installed.
+- **Django:** A high-level Python web framework that encourages rapid development and clean, pragmatic design. This project was built with Django 3.2.
+
+## Configuration
+
+Before running the Django Flower Shop application, ensure the database is properly configured. The project uses MySQL as its database. Update the `DATABASES` setting in your project's `settings.py` file as follows:
+
+```python
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'shopping',
+        'USER': 'root',
+        'PASSWORD': '',
+        'HOST': 'localhost',
+        'PORT': '3306',
+    }
+}
+
+
+
