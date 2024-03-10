@@ -82,26 +82,24 @@ DATABASES = {
 Here's a sneak peek at Flower Shop Website:
 
 ## Home Page
-![Home Page Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\Index.png")
+![Index](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/a1555ff2-3392-4e6d-8a2a-0e4f5e60a33f)
 
 ## Shop Items
-![Shop Items Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\ItemsShop.png")
+![Shop Items Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![ItemsShop](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/9f6a0413-1f32-4a90-a9ad-7e5442f40e4e)
 
 ## Item Details
-![Item Details Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\ItemsDetails.png")
+![Item Details Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![ItemsDetails](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/c354c51b-7dc3-4c79-8870-0847f3924546)
+
 
 ## Checkout
-![Checkout Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\Checkout.png")
+![Checkout Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![Checkout](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/6f740015-4e46-40f7-8bc2-cc4494c702f9)
 
 ## Address Form
-![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\address.png")
+![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![address](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/ae860f26-e48b-4672-8cd6-81f9d615257c)
 
 ### Payment Form
-![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA UNIVERSITY\Documents\flower\payment.png")
+![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![payment](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/1e1fad96-a8df-4dfe-aa78-9b3334c5d276)
 
-## Video Demonstration
-For a full demonstration of the web application, check out this video:
-[![Django Flower Shop Video Demo](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Django Flower Shop Video Demo")
 
 
 ## Demo Video
