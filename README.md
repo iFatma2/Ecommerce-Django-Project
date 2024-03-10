@@ -93,13 +93,13 @@ Here's a sneak peek at Flower Shop Website:
 
 
 ### Checkout
-![Checkout Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![Checkout](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/6f740015-4e46-40f7-8bc2-cc4494c702f9)
+![CheckoutSketch]("C:\Users\F\OneDrive - UMM AL-QURA ![Checkout](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/6f740015-4e46-40f7-8bc2-cc4494c702f9)
 
 ### Address Form
-![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![address](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/ae860f26-e48b-4672-8cd6-81f9d615257c)
+![AddresFormSketch]("C:\Users\F\OneDrive - UMM AL-QURA ![address](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/ae860f26-e48b-4672-8cd6-81f9d615257c)
 
 ### Payment Form
-![Address Form Sketch]("C:\Users\F\OneDrive - UMM AL-QURA ![payment](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/1e1fad96-a8df-4dfe-aa78-9b3334c5d276)
+![AddressFormSketch]("C:\Users\F\OneDrive - UMM AL-QURA ![payment](https://github.com/iFatma2/Ecommerce-Django-Project/assets/139279448/1e1fad96-a8df-4dfe-aa78-9b3334c5d276)
 
 ## Database Checking:
 ### Address Table:
@@ -112,8 +112,7 @@ Here's a sneak peek at Flower Shop Website:
 ## Demo Video
 
 Watch a full demonstration of the Django Flower Shop in action:
-
-[![Watch the demo](https://img.youtube.com/vi/your_video_id_here/maxresdefault.jpg)](https://youtu.be/your_video_id_here)
+![FlowerShopDemo](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/a875a63c-2369-4b79-a74b-9b0cb704b6a6)
 
 
 
